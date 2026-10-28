@@ -1,10 +1,10 @@
-# Vitrin
+# Vitrin Ht
 
 **Boutique en ligne de vêtements et de chaussures — Haïti 🇭🇹**
 
 Prix en gourdes · Livraison à Port-au-Prince · Retrait aux points de rendez-vous
 
-🛍️ **[Visiter la boutique](https://REMPLACE-PAR-TON-ADRESSE)**
+🛍️ **[Visiter la boutique](https://vitrin-shop.vercel.app)**
 
 ---
 
