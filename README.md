@@ -1,52 +1,52 @@
-# Vitrin Ht
+# Vitrin
 
-**Nous concevons et développons des produits web, depuis Haïti 🇭🇹**
+**Boutique en ligne de vêtements et de chaussures — Haïti 🇭🇹**
 
-Des outils complets, pensés pour être utilisés tous les jours — pas des maquettes.
+Prix en gourdes · Livraison à Port-au-Prince · Retrait aux points de rendez-vous
+
+🛍️ **[Visiter la boutique](https://REMPLACE-PAR-TON-ADRESSE)**
 
 ---
 
-## Ce que nous faisons
+## La boutique
 
-- **Boutiques en ligne** et outils de gestion pour commerçants
-- **Applications web sur mesure** : gestion de stock, de commandes, de comptabilité
-- Des interfaces qui marchent **d'abord sur téléphone**, et sur connexion lente
+Une sélection de pièces choisies, commandée en quelques gestes depuis le téléphone,
+et confirmée sur WhatsApp — comme on a l'habitude de faire ici.
 
-## Nos réalisations
+- **Catalogue** : filtres par taille, pointure, couleur et prix ; favoris ; avis des clientes
+- **Compte sans mot de passe** : reconnu par numéro de téléphone
+- **Commande** : confirmée sur WhatsApp, puis suivie étape par étape
+- **Livraison** par zone, ou **retrait** à un point de rendez-vous
+- **Paiement** : MonCash, NatCash, virement, ou à la réception
+- **Notifications** sur le téléphone à chaque étape
 
-### Vitrin — boutique de vêtements et de chaussures
+## La plateforme
 
-Notre première réalisation : une boutique en ligne complète, et surtout l'outil qui la fait
-tourner au quotidien.
+Vitrin n'est pas qu'une vitrine : c'est aussi l'outil qui fait tourner la boutique au quotidien.
 
-**Côté cliente** — catalogue avec filtres (taille, pointure, couleur, prix), favoris, avis,
-compte reconnu par numéro de téléphone sans mot de passe, commande confirmée sur WhatsApp,
-suivi de livraison, échanges, notifications sur le téléphone.
+- **Commandes** : suivi complet, échanges, avoirs, messages prêts à envoyer
+- **Clientes** : historique, dettes, limites de crédit, groupes, codes promo
+- **Catalogue** : produits et tailles, stock, inventaire, alertes de réassort
+- **Achats** : fournisseurs, achats en pesos ou en dollars, prix de revient figé par pièce
+- **Livreurs** : portail personnel, bons de livraison, argent à remettre
+- **Comptabilité** : trésorerie par compte, dépenses, bénéfice, répartition et salaire
+- **Tableau de bord** : ventes, marges, encaissements, prévisions
 
-**Côté gestion** — commandes et clientes, stock et inventaire, achats fournisseurs avec prix
-de revient figé, livreurs avec portail personnel, codes promo, comptabilité (trésorerie par
-compte, dépenses, bénéfice, salaire) et tableau de bord.
-
-🔗 <!-- Remplace par l'adresse de la boutique -->[Voir le site](https://vitrin-shop.vercel.app)
-
-<!-- Les prochaines réalisations viendront s'ajouter ici -->
-
-## Comment nous travaillons
+## Comment c'est fait
 
 `React 19` · `Vite` · `Tailwind CSS 4` · `TanStack Query` · `Supabase (PostgreSQL, RLS, Edge Functions)` · `Vercel`
 
-- **La logique métier vit en base**, dans des fonctions SQL protégées par Row Level Security :
-  le navigateur ne décide jamais d'un prix, d'un stock ni d'un paiement.
-- **Des tests automatiques** à chaque mise en ligne : sécurité du schéma, ouverture de toutes
-  les pages, vérification de l'affichage sur téléphone.
-- **Sauvegarde chiffrée** de la base chaque nuit.
+Toute la logique métier vit **en base**, dans des fonctions SQL `security definer` protégées par
+Row Level Security : le navigateur ne décide jamais d'un prix, d'un stock ni d'un paiement.
+Les montants sont des entiers en gourdes, et chaque mise en ligne passe par des tests
+automatiques (sécurité du schéma, écrans).
 
-## Travaillons ensemble
+## Nous suivre
 
-Un projet de boutique en ligne ou d'outil de gestion ?
+<!-- Remplace par tes vrais liens, ou supprime les lignes inutiles -->
+[Instagram](https://instagram.com/TON-COMPTE) · [Facebook](https://facebook.com/TON-COMPTE) · [TikTok](https://tiktok.com/@TON-COMPTE)
 
-📩 <!-- Remplace par ton e-mail -->TON-EMAIL
-<!-- Remplace ou supprime -->[Instagram](https://instagram.com/TON-COMPTE) · [Facebook](https://facebook.com/TON-COMPTE)
+📩 TON-EMAIL
 
 ---
 
