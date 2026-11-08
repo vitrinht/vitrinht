@@ -36,7 +36,7 @@ Boutique en ligne de vêtements et de chaussures, pensée pour Haïti.
 
 **[contact@vitrinht.com](mailto:contact@vitrinht.com)**
 
-Instagram · Facebook · TikTok *(à remplacer par vos liens)*
+Instagram · Facebook · TikTok
 
 ---
 
