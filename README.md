@@ -17,7 +17,7 @@ Boutique en ligne de vêtements et de chaussures, pensée pour Haïti.
 - Livraison par livreur ou retrait au point de rendez-vous
 - Gestion complète : stock, achats, livreurs, dettes, comptabilité
 
-**[Vitrin Ht](vitrinht.com)**
+**[Vitrin Ht](www.vitrinht.com)**
 
 ---
 
